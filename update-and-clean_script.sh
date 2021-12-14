@@ -1,0 +1,1 @@
+sudo apt update; sudo apt upgrade; sudo apt-get update; sudo apt-get upgrade; sudo apt-get clean; sudo apt-get autoclean; sudo apt-get autoremove --purge; sudo apt clean; sudo apt autoclean; sudo apt autoremove --purge
